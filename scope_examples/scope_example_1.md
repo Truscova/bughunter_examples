@@ -1,0 +1,3 @@
+- file1.sol
+- file2.sol
+- file3.sol

@@ -1,0 +1,3 @@
+- /path/to/file1.sol
+- /path/to/file2.sol
+- /path/to/file3.sol
